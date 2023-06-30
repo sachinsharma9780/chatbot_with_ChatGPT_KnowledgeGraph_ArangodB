@@ -8,4 +8,5 @@ Processing Textual Information (or Natural Language): ChatGPT allows the chatbot
 
 Seamless Integration of Data: ArangoDB (a multi-model Graph Database) can be used to store and manage healthcare data. The healthcare data can be stored as triplets in the knowledge graph. This will enable effective information querying, indexing, and retrieval, enabling the chatbot to respond quickly and accurately.
 
-![Healthcare_Chatbot_1](https://github.com/sachinsharma9780/chatbot_with_ChatGPT_KnowledgeGraph_ArangodB/assets/40523048/c5278816-7475-4884-b9f4-95447288c242)
+https://github.com/sachinsharma9780/chatbot_with_ChatGPT_KnowledgeGraph_ArangodB/assets/40523048/9e3e0f29-c6fc-4df0-a388-30ae69a5a1b6
+
