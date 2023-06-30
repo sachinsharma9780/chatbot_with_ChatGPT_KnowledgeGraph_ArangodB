@@ -1,4 +1,4 @@
-# chatbot_with_ChatGPT_KnowledgeGraph_ArangodB
+# How to Build a Knowledge Graph-Enhanced Chatbot with ChatGPT and ArangoDB
 
 In this repository, we will build a HealthCare Chatbot powered by 3 key technologies; Knowledge Graphs, ChatGPT, and ArangoDB (next-generation graph database). The benefits which come with building this type of chatbot are:
 
