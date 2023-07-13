@@ -10,3 +10,7 @@ Seamless Integration of Data: **ArangoDB** (a multi-model Graph Database) can be
 
 https://github.com/sachinsharma9780/chatbot_with_ChatGPT_KnowledgeGraph_ArangodB/assets/40523048/9e3e0f29-c6fc-4df0-a388-30ae69a5a1b6
 
+### Restoring Healthcare Knowledge Graph into ArangoDB
+
+Here is an example showing how to restore Healthcare Knowledge Graph dump into the ArangoDB (create Healthcare_KG database in ArangoDB):
+arangorestore --server.endpoint "tcp://127.0.0.1:8529"  --server.username "root" --server.database "Healthcare_KG" --server.password "" --input-directory “./Healthcare_KG”
